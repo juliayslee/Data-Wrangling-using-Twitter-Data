@@ -1,2 +1,2 @@
 # Data-Wrangling-using-Twitter-Data
-Using Twitter's API, we will go through the data wrangling process for the Twitter account WeRateDogs
+Using Twitter's API, we will go through the data wrangling process for the Twitter account WeRateDogs. This Twitter account is a humorous account of pictures of dogs with a witty caption, for example ["This is Andi and Olli. They fell asleep arguing over who gets to cuddle the chicken toy. 13/10 for both"](https://twitter.com/dog_rates/status/1240080545306066945)
